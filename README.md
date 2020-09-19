@@ -1,2 +1,2 @@
-# weather-app-beta
+# weather-app
 Created with CodeSandbox
